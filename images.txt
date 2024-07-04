@@ -7,3 +7,4 @@ xhofe/alist:latest
 vinlic/qwen-free-api:latest
 metabase/metabase:latest
 mouday/spider-admin-pro
+scrapyd/scrapyd
