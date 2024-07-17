@@ -8,3 +8,4 @@ vinlic/qwen-free-api:latest
 metabase/metabase:latest
 mouday/spider-admin-pro
 vimagick/scrapyd
+zhayujie/chatgpt-on-wechat
