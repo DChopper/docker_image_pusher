@@ -9,3 +9,5 @@ metabase/metabase:latest
 mouday/spider-admin-pro
 vimagick/scrapyd
 zhayujie/chatgpt-on-wechat
+selenium/standalone-chrome
+
