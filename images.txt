@@ -11,3 +11,5 @@ vimagick/scrapyd
 zhayujie/chatgpt-on-wechat
 selenium/standalone-chrome
 xuxueli/xxl-job-admin
+whyour/qinglong
+
