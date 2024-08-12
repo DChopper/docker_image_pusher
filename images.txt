@@ -13,3 +13,4 @@ selenium/standalone-chrome
 xuxueli/xxl-job-admin
 whyour/qinglong:latest
 whyour/qinglong:debian
+
